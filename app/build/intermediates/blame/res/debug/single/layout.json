@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_auth.xml",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userinfo.xml",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\layout\\activity_userinfo.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_userinfo.xml",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\layout\\activity_show_userinfo.xml"
+    }
+]

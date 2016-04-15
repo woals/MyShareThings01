@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_drw.xml",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable\\cb_drw.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\auth_cb.xml",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable\\auth_cb.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back.xml",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable\\btn_back.xml"
+    }
+]

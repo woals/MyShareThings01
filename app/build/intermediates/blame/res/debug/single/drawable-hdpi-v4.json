@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_single_normal.9.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-hdpi\\list_item_single_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cb_checked.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-hdpi\\cb_checked.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_first_normal.9.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-hdpi\\list_item_first_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pointer.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-hdpi\\pointer.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sidebar_right_shadow.9.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-hdpi\\sidebar_right_shadow.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sidebar_titlt_back.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-hdpi\\sidebar_titlt_back.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sidebar_seperator.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-hdpi\\sidebar_seperator.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cb_uncheck.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-hdpi\\cb_uncheck.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_last_normal.9.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-hdpi\\list_item_last_normal.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_middle_normal.9.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-hdpi\\list_item_middle_normal.9.png"
+    }
+]

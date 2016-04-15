@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_back_nor.9.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\btn_back_nor.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\evernote.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\evernote.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_back_pre.9.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\btn_back_pre.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qzone.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\qzone.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_follow_cb_unc.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_unc.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_follow_bg.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\auth_follow_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\douban.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\douban.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_follow_cb_chd.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_chd.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_back.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\title_back.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wechat_moment.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\wechat_moment.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\facebook.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\facebook.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sohu_mb.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\sohu_mb.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wechat_friend.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\wechat_friend.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tencent_weibo.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\tencent_weibo.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\renren.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\renren.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sina_weibo.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\sina_weibo.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\twitter.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\twitter.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pic.png",
+        "source": "F:\\AndroidStudioProjects\\MyShareThings01\\app\\src\\main\\res\\drawable-xhdpi\\pic.png"
+    }
+]
